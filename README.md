@@ -37,8 +37,8 @@ Web3 security researcher focused on Solidity/EVM protocols. Independent audits, 
 
 | # | Protocol | Type | Date | Findings | Report |
 |---|----------|------|------|----------|--------|
-| 001 | *—* | `DeFi` | 2026-XX | 🔴 0H · 🟡 0M · ⚪ 0L | [PDF](#chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/file:///Users/carlosramirez/Downloads/PasswordStore-Audit-Report.pdf) |
-| 002 | *—* | `NFT` | 2026-XX | 🔴 0H · 🟡 0M · ⚪ 0L | [PDF](#) |
+| 001 | **PasswordStore** | `Password Vault` | Apr 2026 | 🔴 2H · 🟡 0M · ⚪ 1I | [PDF](./audits/001-passwordstore/report.pdf) |
+| 002 | *—* | `XXXX` | XXXX-XX | 🔴 0H · 🟡 0M · ⚪ 0L | [PDF](#) |
 
 > *Table updated as audits are completed.*
 
