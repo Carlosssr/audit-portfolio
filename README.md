@@ -37,8 +37,7 @@ Web3 security researcher focused on Solidity/EVM protocols. Independent audits, 
 
 | # | Protocol | Type | Date | Findings | Report |
 |---|----------|------|------|----------|--------|
-| 001 | **PasswordStore** | `Password Vault` | Apr 2026 | 🔴 2H · 🟡 0M · ⚪ 1I | [Carlosssr/audit-portfolio/report.pdf](#)
-PDF](#) |
+| 001 | **PasswordStore** | `Password Vault` | Apr 2026 | 🔴 2H · 🟡 0M · ⚪ 1I | [PDF](Carlosssr/audit-portfolio/report.pdf) |
 | 002 | *—* | `XXXX` | XXXX-XX | 🔴 0H · 🟡 0M · ⚪ 0L | [PDF](#) |
 
 > *Table updated as audits are completed.*
