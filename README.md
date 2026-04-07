@@ -103,6 +103,6 @@ audit-portfolio/
 
 | Channel | Link |
 |---------|------|
-| **X / Twitter** | [@yourhandle](https://twitter.com/yourhandle) |
-| **Substack** | [yoursubstack](https://yoursubstack.substack.com) |
-| **Email** | [your@email.com](mailto:your@email.com) |
+| **X / Twitter** | [@yourhandle](https://x.com/carlostrad3s) |
+| **Substack** | (https://substack.com/@carlosramirezzz) |
+| **Email** | [TBD](TBD) |
